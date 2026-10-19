@@ -1,0 +1,1113 @@
+{
+ "lmdi7": {
+  "nacional": {
+   "escala": 905.2,
+   "mix_setorial": 8281.3,
+   "mix_regional": -102.5,
+   "intensidade": -3753.8,
+   "populacao": 1437.7,
+   "mix_regional_pop": 34.0,
+   "per_capita": 166.4,
+   "dW": 6968.3,
+   "residuo": -0.0
+  },
+  "por_setor": {
+   "agro": {
+    "escala": 727.9,
+    "mix_setorial": 9399.8,
+    "mix_regional": -353.8,
+    "intensidade": -4293.8,
+    "populacao": 0.0,
+    "mix_regional_pop": 0.0,
+    "per_capita": 0.0,
+    "dW": 5480.1
+   },
+   "hh": {
+    "escala": 0.0,
+    "mix_setorial": 0.0,
+    "mix_regional": 0.0,
+    "intensidade": 0.0,
+    "populacao": 1437.7,
+    "mix_regional_pop": 34.0,
+    "per_capita": 166.4,
+    "dW": 1638.1
+   },
+   "ind": {
+    "escala": 177.3,
+    "mix_setorial": -1118.6,
+    "mix_regional": 251.3,
+    "intensidade": 540.0,
+    "populacao": 0.0,
+    "mix_regional_pop": 0.0,
+    "per_capita": 0.0,
+    "dW": -149.9
+   }
+  },
+  "por_uf": {
+   "AC": {
+    "escala": 1.3,
+    "mix_setorial": 15.2,
+    "mix_regional": -13.1,
+    "intensidade": 8.8,
+    "populacao": 8.7,
+    "mix_regional_pop": 8.6,
+    "per_capita": 3.1,
+    "dW": 32.5
+   },
+   "AL": {
+    "escala": 15.5,
+    "mix_setorial": 62.3,
+    "mix_regional": 183.6,
+    "intensidade": -479.4,
+    "populacao": 18.2,
+    "mix_regional_pop": -6.4,
+    "per_capita": 5.3,
+    "dW": -200.9
+   },
+   "AM": {
+    "escala": 9.3,
+    "mix_setorial": -39.8,
+    "mix_regional": -30.1,
+    "intensidade": -13.7,
+    "populacao": 29.4,
+    "mix_regional_pop": 25.4,
+    "per_capita": 4.3,
+    "dW": -15.2
+   },
+   "AP": {
+    "escala": 0.7,
+    "mix_setorial": 6.3,
+    "mix_regional": -11.0,
+    "intensidade": 10.1,
+    "populacao": 12.1,
+    "mix_regional_pop": 18.5,
+    "per_capita": 0.5,
+    "dW": 37.2
+   },
+   "BA": {
+    "escala": 91.9,
+    "mix_setorial": 1082.6,
+    "mix_regional": -334.0,
+    "intensidade": 314.6,
+    "populacao": 74.3,
+    "mix_regional_pop": -35.5,
+    "per_capita": 13.6,
+    "dW": 1207.6
+   },
+   "CE": {
+    "escala": 27.2,
+    "mix_setorial": 306.4,
+    "mix_regional": -104.6,
+    "intensidade": -539.3,
+    "populacao": 55.5,
+    "mix_regional_pop": -13.7,
+    "per_capita": 10.1,
+    "dW": -258.4
+   },
+   "DF": {
+    "escala": 3.3,
+    "mix_setorial": 37.0,
+    "mix_regional": 47.0,
+    "intensidade": -26.9,
+    "populacao": 16.8,
+    "mix_regional_pop": 10.5,
+    "per_capita": 1.0,
+    "dW": 88.6
+   },
+   "ES": {
+    "escala": 37.5,
+    "mix_setorial": 407.4,
+    "mix_regional": -440.4,
+    "intensidade": 333.7,
+    "populacao": 28.4,
+    "mix_regional_pop": 12.7,
+    "per_capita": 5.8,
+    "dW": 385.0
+   },
+   "GO": {
+    "escala": 47.0,
+    "mix_setorial": 483.7,
+    "mix_regional": 113.2,
+    "intensidade": 61.1,
+    "populacao": 37.5,
+    "mix_regional_pop": 25.1,
+    "per_capita": 3.9,
+    "dW": 771.6
+   },
+   "MA": {
+    "escala": 13.3,
+    "mix_setorial": 127.5,
+    "mix_regional": -34.9,
+    "intensidade": 58.1,
+    "populacao": 56.2,
+    "mix_regional_pop": -13.4,
+    "per_capita": 15.4,
+    "dW": 222.3
+   },
+   "MG": {
+    "escala": 128.3,
+    "mix_setorial": 1207.3,
+    "mix_regional": -1521.6,
+    "intensidade": 2192.3,
+    "populacao": 141.8,
+    "mix_regional_pop": -33.9,
+    "per_capita": 18.2,
+    "dW": 2132.4
+   },
+   "MS": {
+    "escala": 19.5,
+    "mix_setorial": 145.8,
+    "mix_regional": 225.1,
+    "intensidade": -223.9,
+    "populacao": 18.1,
+    "mix_regional_pop": 7.0,
+    "per_capita": 1.5,
+    "dW": 193.1
+   },
+   "MT": {
+    "escala": 27.6,
+    "mix_setorial": 319.2,
+    "mix_regional": 649.9,
+    "intensidade": -526.7,
+    "populacao": 28.2,
+    "mix_regional_pop": 12.7,
+    "per_capita": 2.5,
+    "dW": 513.4
+   },
+   "PA": {
+    "escala": 22.7,
+    "mix_setorial": 90.8,
+    "mix_regional": 205.2,
+    "intensidade": -112.3,
+    "populacao": 53.4,
+    "mix_regional_pop": 17.1,
+    "per_capita": 8.4,
+    "dW": 285.4
+   },
+   "PB": {
+    "escala": 5.8,
+    "mix_setorial": 39.1,
+    "mix_regional": -67.4,
+    "intensidade": -117.7,
+    "populacao": 21.0,
+    "mix_regional_pop": -7.1,
+    "per_capita": 3.3,
+    "dW": -123.1
+   },
+   "PE": {
+    "escala": 33.5,
+    "mix_setorial": 258.2,
+    "mix_regional": -75.3,
+    "intensidade": -384.9,
+    "populacao": 57.5,
+    "mix_regional_pop": -8.6,
+    "per_capita": 4.0,
+    "dW": -115.7
+   },
+   "PI": {
+    "escala": 7.7,
+    "mix_setorial": 91.1,
+    "mix_regional": 133.7,
+    "intensidade": -181.6,
+    "populacao": 17.3,
+    "mix_regional_pop": -9.7,
+    "per_capita": 5.1,
+    "dW": 63.5
+   },
+   "PR": {
+    "escala": 22.0,
+    "mix_setorial": 75.0,
+    "mix_regional": 123.8,
+    "intensidade": -147.3,
+    "populacao": 66.5,
+    "mix_regional_pop": -5.4,
+    "per_capita": 9.5,
+    "dW": 144.1
+   },
+   "RJ": {
+    "escala": 15.8,
+    "mix_setorial": -5.9,
+    "mix_regional": -115.9,
+    "intensidade": 237.8,
+    "populacao": 157.9,
+    "mix_regional_pop": -34.6,
+    "per_capita": -1.5,
+    "dW": 253.6
+   },
+   "RN": {
+    "escala": 8.7,
+    "mix_setorial": 93.6,
+    "mix_regional": -3.3,
+    "intensidade": -117.7,
+    "populacao": 21.9,
+    "mix_regional_pop": 1.3,
+    "per_capita": 3.1,
+    "dW": 7.5
+   },
+   "RO": {
+    "escala": 11.6,
+    "mix_setorial": 142.2,
+    "mix_regional": 104.2,
+    "intensidade": 36.8,
+    "populacao": 14.8,
+    "mix_regional_pop": 6.5,
+    "per_capita": 7.7,
+    "dW": 323.8
+   },
+   "RR": {
+    "escala": 3.3,
+    "mix_setorial": 42.2,
+    "mix_regional": 145.2,
+    "intensidade": -90.3,
+    "populacao": 6.1,
+    "mix_regional_pop": 14.8,
+    "per_capita": 1.1,
+    "dW": 122.3
+   },
+   "RS": {
+    "escala": 210.3,
+    "mix_setorial": 2546.7,
+    "mix_regional": 1375.4,
+    "intensidade": -4636.6,
+    "populacao": 75.3,
+    "mix_regional_pop": -28.6,
+    "per_capita": 9.2,
+    "dW": -448.4
+   },
+   "SC": {
+    "escala": 38.0,
+    "mix_setorial": 205.6,
+    "mix_regional": -89.8,
+    "intensidade": 16.3,
+    "populacao": 45.2,
+    "mix_regional_pop": 22.5,
+    "per_capita": 9.3,
+    "dW": 247.2
+   },
+   "SE": {
+    "escala": 5.7,
+    "mix_setorial": 54.1,
+    "mix_regional": -102.2,
+    "intensidade": 125.9,
+    "populacao": 13.3,
+    "mix_regional_pop": 1.7,
+    "per_capita": 2.0,
+    "dW": 100.5
+   },
+   "SP": {
+    "escala": 83.4,
+    "mix_setorial": 306.7,
+    "mix_regional": -868.2,
+    "intensidade": 685.8,
+    "populacao": 353.8,
+    "mix_regional_pop": 42.6,
+    "per_capita": 18.8,
+    "dW": 622.8
+   },
+   "TO": {
+    "escala": 14.5,
+    "mix_setorial": 181.1,
+    "mix_regional": 403.1,
+    "intensidade": -237.0,
+    "populacao": 8.7,
+    "mix_regional_pop": 3.8,
+    "per_capita": 1.4,
+    "dW": 375.6
+   }
+  },
+  "especificacoes": {
+   "Baseline (sectoral deflators, three-year ends, withdrawal)": {
+    "escala": 905.2,
+    "mix_setorial": 8281.3,
+    "mix_regional": -102.5,
+    "intensidade": -3753.8,
+    "populacao": 1437.7,
+    "mix_regional_pop": 34.0,
+    "per_capita": 166.4,
+    "dW": 6968.3,
+    "residuo": -0.0
+   },
+   "Single aggregate deflator (nominal structure)": {
+    "escala": 1312.8,
+    "mix_setorial": 8560.0,
+    "mix_regional": -87.4,
+    "intensidade": -4455.2,
+    "populacao": 1437.7,
+    "mix_regional_pop": 34.0,
+    "per_capita": 166.4,
+    "dW": 6968.3,
+    "residuo": -0.0
+   },
+   "Single-year ends, 2010 and 2021": {
+    "escala": 3175.4,
+    "mix_setorial": 7652.5,
+    "mix_regional": -174.6,
+    "intensidade": -3401.9,
+    "populacao": 1616.2,
+    "mix_regional_pop": 47.5,
+    "per_capita": 224.1,
+    "dW": 9139.3,
+    "residuo": 0.0
+   },
+   "Five-year ends, 2010–2014 and 2017–2021": {
+    "escala": -201.7,
+    "mix_setorial": 7135.8,
+    "mix_regional": -121.3,
+    "intensidade": -3063.9,
+    "populacao": 1048.6,
+    "mix_regional_pop": 28.4,
+    "per_capita": 156.1,
+    "dW": 4982.1,
+    "residuo": 0.0
+   },
+   "Thermoelectric withdrawal excluded": {
+    "escala": 858.0,
+    "mix_setorial": 8579.4,
+    "mix_regional": -169.7,
+    "intensidade": -4203.7,
+    "populacao": 1437.7,
+    "mix_regional_pop": 34.0,
+    "per_capita": 166.4,
+    "dW": 6702.0,
+    "residuo": -0.0
+   },
+   "Consumption instead of withdrawal": {
+    "escala": 642.6,
+    "mix_setorial": 6971.7,
+    "mix_regional": -633.1,
+    "intensidade": -2472.8,
+    "populacao": 349.0,
+    "mix_regional_pop": 3.9,
+    "per_capita": -69.3,
+    "dW": 4792.1,
+    "residuo": 0.0
+   },
+   "Northeast states excluded": {
+    "escala": 542.4,
+    "mix_setorial": 6252.8,
+    "mix_regional": 369.3,
+    "intensidade": -2431.8,
+    "populacao": 1222.4,
+    "mix_regional_pop": 5.3,
+    "per_capita": 104.6,
+    "dW": 6065.1,
+    "residuo": -0.0
+   },
+   "Subperiod 2010–2012 to 2014–2016": {
+    "escala": 1211.4,
+    "mix_setorial": 2447.3,
+    "mix_regional": 688.0,
+    "intensidade": -2110.9,
+    "populacao": 881.3,
+    "mix_regional_pop": -5.6,
+    "per_capita": 78.2,
+    "dW": 3189.7,
+    "residuo": 0.0
+   },
+   "Subperiod 2014–2016 to 2019–2021": {
+    "escala": -353.5,
+    "mix_setorial": 5820.6,
+    "mix_regional": -909.2,
+    "intensidade": -1463.5,
+    "populacao": 554.1,
+    "mix_regional_pop": 40.3,
+    "per_capita": 89.8,
+    "dW": 3778.6,
+    "residuo": -0.0
+   }
+  }
+ },
+ "lmdi4_nacional": {
+  "escala": 1191.9,
+  "mix_setorial": 8591.0,
+  "mix_regional": -26.0,
+  "intensidade": -2788.6,
+  "dW": 6968.3
+ },
+ "share_withdrawal_agro": [
+  0.6001467754420599,
+  0.6201078851601126
+ ],
+ "share_gva_agro": [
+  0.04483883210080223,
+  0.057142363033034264
+ ],
+ "share_gva_ind": [
+  0.24115351758038228,
+  0.21421880968753315
+ ],
+ "intensity_ratio_agro_ind": [
+  20.31329126505344,
+  16.632486914716317
+ ],
+ "pop_growth": 0.09859186595919822,
+ "g_terc_growth": 0.03978002675042647,
+ "hum_pc_growth": 0.013182358884123335,
+ "lmdi7_uf_top": {
+  "MG": {
+   "escala": 128.0,
+   "mix_setorial": 1207.0,
+   "mix_regional": -1522.0,
+   "intensidade": 2192.0,
+   "populacao": 142.0,
+   "mix_regional_pop": -34.0,
+   "per_capita": 18.0,
+   "dW": 2132.0
+  },
+  "BA": {
+   "escala": 92.0,
+   "mix_setorial": 1083.0,
+   "mix_regional": -334.0,
+   "intensidade": 315.0,
+   "populacao": 74.0,
+   "mix_regional_pop": -35.0,
+   "per_capita": 14.0,
+   "dW": 1208.0
+  },
+  "GO": {
+   "escala": 47.0,
+   "mix_setorial": 484.0,
+   "mix_regional": 113.0,
+   "intensidade": 61.0,
+   "populacao": 37.0,
+   "mix_regional_pop": 25.0,
+   "per_capita": 4.0,
+   "dW": 772.0
+  },
+  "SP": {
+   "escala": 83.0,
+   "mix_setorial": 307.0,
+   "mix_regional": -868.0,
+   "intensidade": 686.0,
+   "populacao": 354.0,
+   "mix_regional_pop": 43.0,
+   "per_capita": 19.0,
+   "dW": 623.0
+  },
+  "MT": {
+   "escala": 28.0,
+   "mix_setorial": 319.0,
+   "mix_regional": 650.0,
+   "intensidade": -527.0,
+   "populacao": 28.0,
+   "mix_regional_pop": 13.0,
+   "per_capita": 2.0,
+   "dW": 513.0
+  },
+  "ES": {
+   "escala": 37.0,
+   "mix_setorial": 407.0,
+   "mix_regional": -440.0,
+   "intensidade": 334.0,
+   "populacao": 28.0,
+   "mix_regional_pop": 13.0,
+   "per_capita": 6.0,
+   "dW": 385.0
+  }
+ },
+ "lmdi7_uf_bottom": {
+  "RS": {
+   "escala": 210.0,
+   "mix_setorial": 2547.0,
+   "mix_regional": 1375.0,
+   "intensidade": -4637.0,
+   "populacao": 75.0,
+   "mix_regional_pop": -29.0,
+   "per_capita": 9.0,
+   "dW": -448.0
+  },
+  "CE": {
+   "escala": 27.0,
+   "mix_setorial": 306.0,
+   "mix_regional": -105.0,
+   "intensidade": -539.0,
+   "populacao": 55.0,
+   "mix_regional_pop": -14.0,
+   "per_capita": 10.0,
+   "dW": -258.0
+  },
+  "AL": {
+   "escala": 15.0,
+   "mix_setorial": 62.0,
+   "mix_regional": 184.0,
+   "intensidade": -479.0,
+   "populacao": 18.0,
+   "mix_regional_pop": -6.0,
+   "per_capita": 5.0,
+   "dW": -201.0
+  },
+  "PB": {
+   "escala": 6.0,
+   "mix_setorial": 39.0,
+   "mix_regional": -67.0,
+   "intensidade": -118.0,
+   "populacao": 21.0,
+   "mix_regional_pop": -7.0,
+   "per_capita": 3.0,
+   "dW": -123.0
+  }
+ },
+ "SP_intensidade_por_setor": {
+  "agro": 544.0,
+  "ind": 141.0,
+  "hh": 0.0,
+  "hh_per_capita": 19.0,
+  "hh_pop": 354.0
+ },
+ "MG_intensidade_por_setor": {
+  "agro": 2054.0,
+  "ind": 138.0,
+  "hh": 0.0
+ },
+ "tapio_sensibilidade": {
+  "total": {
+   "uf_|dG|<3%": [
+    "SP",
+    "RN",
+    "PE",
+    "MG",
+    "DF",
+    "BA"
+   ],
+   "n_uf_regime_estavel_em_todas_janelas": 14,
+   "n_uf_2_regimes": 10,
+   "n_uf_3+_regimes": 3,
+   "uf_regime_muda": {
+    "ES": 2,
+    "AM": 3,
+    "RN": 4,
+    "PE": 2,
+    "MG": 2,
+    "DF": 2,
+    "AC": 2,
+    "RS": 2,
+    "MA": 2,
+    "SC": 2,
+    "PA": 3,
+    "TO": 2,
+    "MT": 2
+   },
+   "n_uf_sinal_dW_estavel": 24,
+   "uf_sinal_dW_muda": [
+    "AM",
+    "RN",
+    "RS"
+   ],
+   "BR": {
+    "3-year means, 2010–12 → 2019–21 (baseline)": "END",
+    "Single years, 2010 → 2021": "END",
+    "2-year means, 2010–11 → 2020–21": "END",
+    "4-year means, 2010–13 → 2018–21": "END",
+    "5-year means, 2010–14 → 2017–21": "SND",
+    "3-year means shifted, 2011–13 → 2018–20": "SND"
+   },
+   "BR_elasticidade": {
+    "3-year means, 2010–12 → 2019–21 (baseline)": 6.1,
+    "Single years, 2010 → 2021": 2.25,
+    "2-year means, 2010–11 → 2020–21": 5.89,
+    "4-year means, 2010–13 → 2018–21": 13.99,
+    "5-year means, 2010–14 → 2017–21": -19.43,
+    "3-year means shifted, 2011–13 → 2018–20": -6.27
+   },
+   "contagem_base_excluindo_indeterminados": {
+    "END": 7,
+    "WD": 5,
+    "SD": 4,
+    "SND": 3,
+    "WND": 1,
+    "EC": 1
+   },
+   "contagem_base": {
+    "END": 10,
+    "SND": 5,
+    "WD": 5,
+    "SD": 4,
+    "WND": 1,
+    "RD": 1,
+    "EC": 1
+   },
+   "n_negative_decoupling_base(END+SND+WND)": 16,
+   "n_water_up_base": 21,
+   "n_water_up_and_gva_flat_or_down(|dG|<3% or dG<0)": 8
+  },
+  "agropecuária": {
+   "uf_|dG|<3%": [
+    "SP",
+    "MG",
+    "RJ"
+   ],
+   "n_uf_regime_estavel_em_todas_janelas": 14,
+   "n_uf_2_regimes": 7,
+   "n_uf_3+_regimes": 6,
+   "uf_regime_muda": {
+    "AM": 2,
+    "PB": 2,
+    "SP": 2,
+    "MG": 2,
+    "AC": 3,
+    "SC": 3,
+    "PE": 4,
+    "BA": 3,
+    "RN": 3,
+    "GO": 3,
+    "RS": 2,
+    "DF": 2,
+    "TO": 2
+   },
+   "n_uf_sinal_dW_estavel": 23,
+   "uf_sinal_dW_muda": [
+    "AM",
+    "PE",
+    "RN",
+    "RS"
+   ],
+   "BR": {
+    "3-year means, 2010–12 → 2019–21 (baseline)": "WD",
+    "Single years, 2010 → 2021": "WD",
+    "2-year means, 2010–11 → 2020–21": "WD",
+    "4-year means, 2010–13 → 2018–21": "WD",
+    "5-year means, 2010–14 → 2017–21": "WD",
+    "3-year means shifted, 2011–13 → 2018–20": "WD"
+   },
+   "BR_elasticidade": {
+    "3-year means, 2010–12 → 2019–21 (baseline)": 0.51,
+    "Single years, 2010 → 2021": 0.56,
+    "2-year means, 2010–11 → 2020–21": 0.66,
+    "4-year means, 2010–13 → 2018–21": 0.52,
+    "5-year means, 2010–14 → 2017–21": 0.53,
+    "3-year means shifted, 2011–13 → 2018–20": 0.5
+   },
+   "contagem_base_excluindo_indeterminados": {
+    "WD": 7,
+    "SD": 6,
+    "END": 5,
+    "SND": 3,
+    "EC": 2,
+    "RD": 1
+   },
+   "contagem_base": {
+    "SD": 7,
+    "WD": 7,
+    "SND": 5,
+    "END": 5,
+    "EC": 2,
+    "RD": 1
+   },
+   "n_negative_decoupling_base(END+SND+WND)": 10,
+   "n_water_up_base": 19,
+   "n_water_up_and_gva_flat_or_down(|dG|<3% or dG<0)": 5
+  }
+ },
+ "tapio_BR_consumo_janelas": {
+  "3-year means, 2010–12 → 2019–21 (baseline)": 7.07,
+  "Single years, 2010 → 2021": 2.61,
+  "2-year means, 2010–11 → 2020–21": 6.75,
+  "4-year means, 2010–13 → 2018–21": 17.06,
+  "5-year means, 2010–14 → 2017–21": -23.93,
+  "3-year means shifted, 2011–13 → 2018–20": -7.87
+ },
+ "painel": [
+  {
+   "setor": "total",
+   "efeitos": "UF + ano",
+   "elasticidade": 0.241,
+   "ep_cluster": 0.198,
+   "ic95_inf": -0.147,
+   "ic95_sup": 0.629,
+   "p_cluster": 0.224,
+   "p_wild_cluster_boot": 0.255,
+   "R2_within": 0.278,
+   "n": 324
+  },
+  {
+   "setor": "total",
+   "efeitos": "UF + tendência por UF",
+   "elasticidade": 0.048,
+   "ep_cluster": 0.171,
+   "ic95_inf": -0.287,
+   "ic95_sup": 0.383,
+   "p_cluster": 0.78,
+   "p_wild_cluster_boot": 0.778,
+   "R2_within": 0.555,
+   "n": 324
+  },
+  {
+   "setor": "total",
+   "efeitos": "between (27 state means)",
+   "elasticidade": 0.788,
+   "ep_cluster": 0.095,
+   "ic95_inf": 0.603,
+   "ic95_sup": 0.974,
+   "p_cluster": 0.0,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.724,
+   "n": 27
+  },
+  {
+   "setor": "total",
+   "efeitos": "long difference, 2010–12 → 2019–21 (27 states)",
+   "elasticidade": 0.355,
+   "ep_cluster": 0.221,
+   "ic95_inf": -0.077,
+   "ic95_sup": 0.787,
+   "p_cluster": 0.108,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.057,
+   "n": 27
+  },
+  {
+   "setor": "agropecuária",
+   "efeitos": "UF + ano",
+   "elasticidade": 0.108,
+   "ep_cluster": 0.102,
+   "ic95_inf": -0.092,
+   "ic95_sup": 0.309,
+   "p_cluster": 0.289,
+   "p_wild_cluster_boot": 0.315,
+   "R2_within": 0.233,
+   "n": 324
+  },
+  {
+   "setor": "agropecuária",
+   "efeitos": "UF + tendência por UF",
+   "elasticidade": -0.116,
+   "ep_cluster": 0.087,
+   "ic95_inf": -0.287,
+   "ic95_sup": 0.055,
+   "p_cluster": 0.185,
+   "p_wild_cluster_boot": 0.148,
+   "R2_within": 0.538,
+   "n": 324
+  },
+  {
+   "setor": "agropecuária",
+   "efeitos": "between (27 state means)",
+   "elasticidade": 0.836,
+   "ep_cluster": 0.124,
+   "ic95_inf": 0.592,
+   "ic95_sup": 1.08,
+   "p_cluster": 0.0,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.621,
+   "n": 27
+  },
+  {
+   "setor": "agropecuária",
+   "efeitos": "long difference, 2010–12 → 2019–21 (27 states)",
+   "elasticidade": 0.277,
+   "ep_cluster": 0.153,
+   "ic95_inf": -0.023,
+   "ic95_sup": 0.578,
+   "p_cluster": 0.071,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.125,
+   "n": 27
+  },
+  {
+   "setor": "irrigação",
+   "efeitos": "UF + ano",
+   "elasticidade": 0.129,
+   "ep_cluster": 0.119,
+   "ic95_inf": -0.103,
+   "ic95_sup": 0.361,
+   "p_cluster": 0.277,
+   "p_wild_cluster_boot": 0.285,
+   "R2_within": 0.216,
+   "n": 324
+  },
+  {
+   "setor": "irrigação",
+   "efeitos": "UF + tendência por UF",
+   "elasticidade": -0.134,
+   "ep_cluster": 0.104,
+   "ic95_inf": -0.338,
+   "ic95_sup": 0.07,
+   "p_cluster": 0.197,
+   "p_wild_cluster_boot": 0.162,
+   "R2_within": 0.514,
+   "n": 324
+  },
+  {
+   "setor": "irrigação",
+   "efeitos": "between (27 state means)",
+   "elasticidade": 0.842,
+   "ep_cluster": 0.182,
+   "ic95_inf": 0.485,
+   "ic95_sup": 1.199,
+   "p_cluster": 0.0,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.45,
+   "n": 27
+  },
+  {
+   "setor": "irrigação",
+   "efeitos": "long difference, 2010–12 → 2019–21 (27 states)",
+   "elasticidade": 0.337,
+   "ep_cluster": 0.185,
+   "ic95_inf": -0.024,
+   "ic95_sup": 0.699,
+   "p_cluster": 0.068,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.114,
+   "n": 27
+  },
+  {
+   "setor": "indústria",
+   "efeitos": "UF + ano",
+   "elasticidade": 0.229,
+   "ep_cluster": 0.16,
+   "ic95_inf": -0.086,
+   "ic95_sup": 0.543,
+   "p_cluster": 0.154,
+   "p_wild_cluster_boot": 0.196,
+   "R2_within": 0.156,
+   "n": 324
+  },
+  {
+   "setor": "indústria",
+   "efeitos": "UF + tendência por UF",
+   "elasticidade": 0.049,
+   "ep_cluster": 0.098,
+   "ic95_inf": -0.142,
+   "ic95_sup": 0.24,
+   "p_cluster": 0.616,
+   "p_wild_cluster_boot": 0.541,
+   "R2_within": 0.708,
+   "n": 324
+  },
+  {
+   "setor": "indústria",
+   "efeitos": "between (27 state means)",
+   "elasticidade": 1.03,
+   "ep_cluster": 0.089,
+   "ic95_inf": 0.855,
+   "ic95_sup": 1.204,
+   "p_cluster": 0.0,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.783,
+   "n": 27
+  },
+  {
+   "setor": "indústria",
+   "efeitos": "long difference, 2010–12 → 2019–21 (27 states)",
+   "elasticidade": 0.555,
+   "ep_cluster": 0.257,
+   "ic95_inf": 0.052,
+   "ic95_sup": 1.058,
+   "p_cluster": 0.031,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.21,
+   "n": 27
+  },
+  {
+   "setor": "abastecimento humano (per capita)",
+   "efeitos": "UF + ano",
+   "elasticidade": 0.01,
+   "ep_cluster": 0.011,
+   "ic95_inf": -0.011,
+   "ic95_sup": 0.032,
+   "p_cluster": 0.333,
+   "p_wild_cluster_boot": 0.333,
+   "R2_within": 0.672,
+   "n": 324
+  },
+  {
+   "setor": "abastecimento humano (per capita)",
+   "efeitos": "UF + tendência por UF",
+   "elasticidade": 0.003,
+   "ep_cluster": 0.006,
+   "ic95_inf": -0.009,
+   "ic95_sup": 0.015,
+   "p_cluster": 0.645,
+   "p_wild_cluster_boot": 0.647,
+   "R2_within": 0.825,
+   "n": 324
+  },
+  {
+   "setor": "abastecimento humano (per capita)",
+   "efeitos": "between (27 state means)",
+   "elasticidade": 0.062,
+   "ep_cluster": 0.102,
+   "ic95_inf": -0.138,
+   "ic95_sup": 0.261,
+   "p_cluster": 0.543,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.011,
+   "n": 27
+  },
+  {
+   "setor": "abastecimento humano (per capita)",
+   "efeitos": "long difference, 2010–12 → 2019–21 (27 states)",
+   "elasticidade": 0.011,
+   "ep_cluster": 0.014,
+   "ic95_inf": -0.016,
+   "ic95_sup": 0.037,
+   "p_cluster": 0.434,
+   "p_wild_cluster_boot": NaN,
+   "R2_within": 0.018,
+   "n": 27
+  }
+ ],
+ "cv_within_uf_mediana": {
+  "cv_w": 0.098,
+  "cv_g": 0.049,
+  "cv_ir": 0.212,
+  "cv_ga": 0.15
+ },
+ "sdg641_yield_ratio": {
+  "0.375": {
+   "BR_2010_12": 80.6513339018672,
+   "BR_2019_21": 72.76459039029827,
+   "BR_change_%": -9.778813480214922,
+   "uf_2019_21": {
+    "RO": 31.42,
+    "AC": 60.97,
+    "AM": 88.55,
+    "RR": 34.58,
+    "PA": 68.55,
+    "AP": 69.96,
+    "TO": 24.16,
+    "MA": 44.73,
+    "PI": 55.66,
+    "CE": 57.34,
+    "RN": 69.22,
+    "PB": 99.06,
+    "PE": 53.98,
+    "AL": 42.69,
+    "SE": 60.6,
+    "BA": 30.44,
+    "MG": 48.12,
+    "ES": 37.53,
+    "RJ": 198.83,
+    "SP": 181.95,
+    "PR": 147.98,
+    "SC": 81.41,
+    "RS": 26.2,
+    "MS": 48.1,
+    "MT": 42.57,
+    "GO": 41.15,
+    "DF": 469.91
+   },
+   "max_abs_diff_uf_R$/m3": 0.9299999999999997,
+   "uf_max_diff": "AL"
+  },
+  "0.543": {
+   "BR_2010_12": 80.45586533375314,
+   "BR_2019_21": 72.55152358917907,
+   "BR_change_%": -9.824444385483488,
+   "uf_2019_21": {
+    "RO": 31.23,
+    "AC": 60.88,
+    "AM": 88.36,
+    "RR": 34.39,
+    "PA": 68.27,
+    "AP": 69.95,
+    "TO": 23.81,
+    "MA": 44.6,
+    "PI": 55.56,
+    "CE": 57.1,
+    "RN": 68.97,
+    "PB": 98.7,
+    "PE": 53.75,
+    "AL": 41.84,
+    "SE": 60.42,
+    "BA": 30.28,
+    "MG": 47.9,
+    "ES": 37.39,
+    "RJ": 198.75,
+    "SP": 181.73,
+    "PR": 147.78,
+    "SC": 81.11,
+    "RS": 26.0,
+    "MS": 48.0,
+    "MT": 42.44,
+    "GO": 40.86,
+    "DF": 469.71
+   },
+   "max_abs_diff_uf_R$/m3": 0.0800000000000054,
+   "uf_max_diff": "AL"
+  },
+  "0.563": {
+   "BR_2010_12": 80.43859581783217,
+   "BR_2019_21": 72.53270812383671,
+   "BR_change_%": -9.82847551429139,
+   "uf_2019_21": {
+    "RO": 31.21,
+    "AC": 60.88,
+    "AM": 88.34,
+    "RR": 34.37,
+    "PA": 68.25,
+    "AP": 69.95,
+    "TO": 23.78,
+    "MA": 44.59,
+    "PI": 55.55,
+    "CE": 57.08,
+    "RN": 68.94,
+    "PB": 98.66,
+    "PE": 53.73,
+    "AL": 41.76,
+    "SE": 60.4,
+    "BA": 30.27,
+    "MG": 47.88,
+    "ES": 37.38,
+    "RJ": 198.74,
+    "SP": 181.71,
+    "PR": 147.76,
+    "SC": 81.08,
+    "RS": 25.98,
+    "MS": 47.99,
+    "MT": 42.43,
+    "GO": 40.83,
+    "DF": 469.69
+   }
+  }
+ },
+ "soma_finalidades_desvio_max_%": 0.04339303482585599,
+ "spearman_wp_vs_irr_share": -0.717948717948718,
+ "spearman_wp_vs_irr_share_p": 2.4842816374372282e-05,
+ "MT_projecao": {
+  "irrig_P0": 584.0467199999999,
+  "irrig_P1": 994.9608000000002,
+  "irrig_growth": 0.7035637149028082,
+  "ret_tot_P0": 1526.44752,
+  "ret_tot_P1": 2039.7484800000002,
+  "ret_tot_growth": 0.3362716066386615,
+  "g_agro_growth": 1.021137240018298,
+  "g_tot_growth": 0.45401342516300747,
+  "irrig_share_P1": 0.48778602350030925,
+  "share_irrig_after_1_decade_same_rate_other_uses_flat": 0.6186581714601161,
+  "withdrawal_growth_next_decade_other_uses_flat": 0.34318854677154587,
+  "withdrawal_growth_next_decade_other_uses_same_rate": 0.398837895696331,
+  "ret_an_P1": 617.36976,
+  "ret_an_growth": 0.09143281917859136
+ },
+ "sdg_vs_wp_diff_%": {
+  "MT": 26.6,
+  "MS": 19.9,
+  "TO": 15.6,
+  "RO": 13.7,
+  "GO": 11.5,
+  "AL": 11.4,
+  "PR": 10.2,
+  "MA": 9.5,
+  "AC": 9.4,
+  "PI": 9.4,
+  "PA": 8.2,
+  "RS": 7.4,
+  "BA": 7.2,
+  "SC": 4.8,
+  "AM": 4.6,
+  "SE": 4.5,
+  "CE": 4.2,
+  "MG": 4.0,
+  "RR": 3.7,
+  "PE": 2.9,
+  "RN": 2.8,
+  "PB": 2.3,
+  "ES": 1.9,
+  "SP": 1.4,
+  "DF": 0.4,
+  "RJ": 0.2,
+  "AP": 0.1
+ }
+}

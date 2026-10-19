@@ -1,0 +1,270 @@
+{
+ "nacional": {
+  "escala": 1191.93,
+  "estrutura": 8564.96,
+  "mix_setorial": 8591.01,
+  "mix_regional": -26.05,
+  "intensidade": -2788.58,
+  "dW": 6968.31,
+  "residuo": -0.0
+ },
+ "por_setor": {
+  "agro": {
+   "escala": 727.9,
+   "mix_setorial": 9399.81,
+   "mix_regional": -353.79,
+   "intensidade": -4293.82,
+   "dW": 5480.1
+  },
+  "ind": {
+   "escala": 177.33,
+   "mix_setorial": -1118.55,
+   "mix_regional": 251.33,
+   "intensidade": 540.03,
+   "dW": -149.86
+  },
+  "terc": {
+   "escala": 286.7,
+   "mix_setorial": 309.75,
+   "mix_regional": 76.41,
+   "intensidade": 965.21,
+   "dW": 1638.07
+  }
+ },
+ "por_uf": {
+  "AC": {
+   "escala": 2.99,
+   "mix_setorial": 17.03,
+   "mix_regional": -8.9,
+   "intensidade": 21.39,
+   "dW": 32.52
+  },
+  "AL": {
+   "escala": 19.08,
+   "mix_setorial": 66.26,
+   "mix_regional": 193.36,
+   "intensidade": -479.64,
+   "dW": -200.94
+  },
+  "AM": {
+   "escala": 15.13,
+   "mix_setorial": -33.44,
+   "mix_regional": -32.73,
+   "intensidade": 35.8,
+   "dW": -15.24
+  },
+  "AP": {
+   "escala": 3.13,
+   "mix_setorial": 8.91,
+   "mix_regional": -11.03,
+   "intensidade": 36.23,
+   "dW": 37.24
+  },
+  "BA": {
+   "escala": 106.77,
+   "mix_setorial": 1098.58,
+   "mix_regional": -348.59,
+   "intensidade": 350.84,
+   "dW": 1207.61
+  },
+  "CE": {
+   "escala": 38.22,
+   "mix_setorial": 318.39,
+   "mix_regional": -67.81,
+   "intensidade": -547.24,
+   "dW": -258.43
+  },
+  "DF": {
+   "escala": 6.62,
+   "mix_setorial": 40.64,
+   "mix_regional": 48.37,
+   "intensidade": -7.01,
+   "dW": 88.63
+  },
+  "ES": {
+   "escala": 43.15,
+   "mix_setorial": 413.47,
+   "mix_regional": -459.96,
+   "intensidade": 388.36,
+   "dW": 385.01
+  },
+  "GO": {
+   "escala": 54.5,
+   "mix_setorial": 491.79,
+   "mix_regional": 126.98,
+   "intensidade": 98.29,
+   "dW": 771.56
+  },
+  "MA": {
+   "escala": 24.48,
+   "mix_setorial": 139.6,
+   "mix_regional": 0.77,
+   "intensidade": 57.42,
+   "dW": 222.27
+  },
+  "MG": {
+   "escala": 156.6,
+   "mix_setorial": 1237.81,
+   "mix_regional": -1511.72,
+   "intensidade": 2249.67,
+   "dW": 2132.36
+  },
+  "MS": {
+   "escala": 23.12,
+   "mix_setorial": 149.72,
+   "mix_regional": 248.75,
+   "intensidade": -228.46,
+   "dW": 193.13
+  },
+  "MT": {
+   "escala": 33.18,
+   "mix_setorial": 325.31,
+   "mix_regional": 715.86,
+   "intensidade": -560.94,
+   "dW": 513.42
+  },
+  "PA": {
+   "escala": 33.35,
+   "mix_setorial": 102.31,
+   "mix_regional": 239.72,
+   "intensidade": -89.98,
+   "dW": 285.4
+  },
+  "PB": {
+   "escala": 9.94,
+   "mix_setorial": 43.6,
+   "mix_regional": -59.88,
+   "intensidade": -116.76,
+   "dW": -123.09
+  },
+  "PE": {
+   "escala": 44.99,
+   "mix_setorial": 270.54,
+   "mix_regional": -102.69,
+   "intensidade": -328.54,
+   "dW": -115.7
+  },
+  "PI": {
+   "escala": 11.15,
+   "mix_setorial": 94.81,
+   "mix_regional": 161.28,
+   "intensidade": -203.71,
+   "dW": 63.54
+  },
+  "PR": {
+   "escala": 35.29,
+   "mix_setorial": 89.34,
+   "mix_regional": 143.3,
+   "intensidade": -123.87,
+   "dW": 144.06
+  },
+  "RJ": {
+   "escala": 47.26,
+   "mix_setorial": 28.13,
+   "mix_regional": -319.71,
+   "intensidade": 497.9,
+   "dW": 253.58
+  },
+  "RN": {
+   "escala": 13.08,
+   "mix_setorial": 98.29,
+   "mix_regional": -3.8,
+   "intensidade": -100.04,
+   "dW": 7.54
+  },
+  "RO": {
+   "escala": 14.54,
+   "mix_setorial": 145.34,
+   "mix_regional": 107.75,
+   "intensidade": 56.15,
+   "dW": 323.77
+  },
+  "RR": {
+   "escala": 4.53,
+   "mix_setorial": 43.48,
+   "mix_regional": 152.24,
+   "intensidade": -77.9,
+   "dW": 122.35
+  },
+  "RS": {
+   "escala": 225.28,
+   "mix_setorial": 2562.89,
+   "mix_regional": 1407.19,
+   "intensidade": -4643.8,
+   "dW": -448.42
+  },
+  "SC": {
+   "escala": 47.07,
+   "mix_setorial": 215.35,
+   "mix_regional": -11.08,
+   "intensidade": -4.11,
+   "dW": 247.22
+  },
+  "SE": {
+   "escala": 8.32,
+   "mix_setorial": 56.96,
+   "mix_regional": -111.59,
+   "intensidade": 146.77,
+   "dW": 100.47
+  },
+  "SP": {
+   "escala": 153.99,
+   "mix_setorial": 382.9,
+   "mix_regional": -945.46,
+   "intensidade": 1031.42,
+   "dW": 622.83
+  },
+  "TO": {
+   "escala": 16.19,
+   "mix_setorial": 182.97,
+   "mix_regional": 423.32,
+   "intensidade": -246.86,
+   "dW": 375.63
+  }
+ },
+ "consumo_nacional": {
+  "escala": 712.18,
+  "mix_setorial": 7046.89,
+  "mix_regional": -600.09,
+  "intensidade": -2366.91,
+  "dW": 4792.06,
+  "residuo": 0.0
+ },
+ "consumo_por_setor": {
+  "agro": {
+   "escala": 573.58,
+   "mix_setorial": 7406.92,
+   "mix_regional": -633.5,
+   "intensidade": -2402.63,
+   "dW": 4944.36
+  },
+  "ind": {
+   "escala": 69.0,
+   "mix_setorial": -435.23,
+   "mix_regional": 0.42,
+   "intensidade": -70.14,
+   "dW": -435.95
+  },
+  "terc": {
+   "escala": 69.6,
+   "mix_setorial": 75.2,
+   "mix_regional": 32.99,
+   "intensidade": 105.86,
+   "dW": 283.64
+  }
+ },
+ "subperiodo_2010_12_a_2014_16": {
+  "escala": 1598.53,
+  "mix_setorial": 2683.7,
+  "mix_regional": 760.64,
+  "intensidade": -1853.13,
+  "dW": 3189.74
+ },
+ "subperiodo_2014_16_a_2019_21": {
+  "escala": -466.02,
+  "mix_setorial": 5890.91,
+  "mix_regional": -903.01,
+  "intensidade": -743.32,
+  "dW": 3778.57
+ }
+}

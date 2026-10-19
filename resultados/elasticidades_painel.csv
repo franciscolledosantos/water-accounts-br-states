@@ -1,0 +1,11 @@
+setor,efeitos,elasticidade,ep,ic95_inf,ic95_sup,n
+total,UF + ano,0.241,0.198,-0.147,0.629,324
+total,UF + tendência por UF,0.048,0.171,-0.287,0.383,324
+agropecuária,UF + ano,0.108,0.102,-0.092,0.309,324
+agropecuária,UF + tendência por UF,-0.116,0.087,-0.287,0.055,324
+irrigação,UF + ano,0.129,0.119,-0.103,0.361,324
+irrigação,UF + tendência por UF,-0.134,0.104,-0.338,0.07,324
+indústria,UF + ano,0.229,0.16,-0.086,0.543,324
+indústria,UF + tendência por UF,0.049,0.098,-0.142,0.24,324
+abastecimento humano (per capita),UF + ano,0.01,0.011,-0.011,0.032,324
+abastecimento humano (per capita),UF + tendência por UF,0.003,0.006,-0.009,0.015,324

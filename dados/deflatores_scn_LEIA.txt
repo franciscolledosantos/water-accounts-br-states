@@ -1,0 +1,1 @@
+# Implicit deflators = annual sum of quarterly current-price VA (SIDRA 1846, v585) / annual sum of chained 1995-price VA (SIDRA 6612, v9318); c11255: 90687 agro, 90691 industry, 90696 services total, 90703 public administration, 90705 total VA. Retrieved 2026-10-16.

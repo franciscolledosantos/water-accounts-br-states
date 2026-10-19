@@ -1,0 +1,507 @@
+{
+ "WP_ret": [
+  83.55295080827834,
+  76.19464346014162
+ ],
+ "WP_con": [
+  141.10389860974635,
+  126.42004439056824
+ ],
+ "WUE641": [
+  80.43859581783218,
+  72.53270812383671
+ ],
+ "WP_agro": [
+  6.259567962833366,
+  7.020406296559648
+ ],
+ "WP_ind": [
+  126.48651096013604,
+  116.47675961569216
+ ],
+ "WP_terc": [
+  248.09542345576344,
+  231.80213993842395
+ ],
+ "ret_hum_pc_L_dia": [
+  205.9338333762979,
+  208.64852707424757
+ ],
+ "tapio_contagem": {
+  "2010–12 → 2014–16|agropecuária|desacoplamento negativo expansivo": 7,
+  "2010–12 → 2014–16|agropecuária|desacoplamento fraco": 6,
+  "2010–12 → 2014–16|agropecuária|desacoplamento forte": 6,
+  "2010–12 → 2014–16|agropecuária|desacoplamento negativo forte": 5,
+  "2010–12 → 2014–16|agropecuária|acoplamento expansivo": 2,
+  "2010–12 → 2014–16|agropecuária|desacoplamento recessivo": 1,
+  "2010–12 → 2014–16|indústria|desacoplamento negativo forte": 8,
+  "2010–12 → 2014–16|indústria|desacoplamento recessivo": 6,
+  "2010–12 → 2014–16|indústria|desacoplamento forte": 5,
+  "2010–12 → 2014–16|indústria|desacoplamento negativo expansivo": 4,
+  "2010–12 → 2014–16|indústria|desacoplamento fraco": 3,
+  "2010–12 → 2014–16|indústria|acoplamento expansivo": 1,
+  "2010–12 → 2014–16|indústria s/ termelétricas|desacoplamento negativo forte": 6,
+  "2010–12 → 2014–16|indústria s/ termelétricas|desacoplamento recessivo": 5,
+  "2010–12 → 2014–16|indústria s/ termelétricas|desacoplamento forte": 5,
+  "2010–12 → 2014–16|indústria s/ termelétricas|desacoplamento negativo expansivo": 4,
+  "2010–12 → 2014–16|indústria s/ termelétricas|desacoplamento fraco": 4,
+  "2010–12 → 2014–16|indústria s/ termelétricas|desacoplamento negativo fraco": 3,
+  "2010–12 → 2014–16|total|desacoplamento negativo expansivo": 11,
+  "2010–12 → 2014–16|total|desacoplamento forte": 7,
+  "2010–12 → 2014–16|total|desacoplamento negativo forte": 4,
+  "2010–12 → 2014–16|total|desacoplamento fraco": 3,
+  "2010–12 → 2014–16|total|acoplamento expansivo": 1,
+  "2010–12 → 2014–16|total|desacoplamento recessivo": 1,
+  "2010–12 → 2019–21|agropecuária|desacoplamento fraco": 7,
+  "2010–12 → 2019–21|agropecuária|desacoplamento forte": 7,
+  "2010–12 → 2019–21|agropecuária|desacoplamento negativo expansivo": 5,
+  "2010–12 → 2019–21|agropecuária|desacoplamento negativo forte": 5,
+  "2010–12 → 2019–21|agropecuária|acoplamento expansivo": 2,
+  "2010–12 → 2019–21|agropecuária|desacoplamento recessivo": 1,
+  "2010–12 → 2019–21|indústria|desacoplamento negativo forte": 8,
+  "2010–12 → 2019–21|indústria|desacoplamento recessivo": 6,
+  "2010–12 → 2019–21|indústria|desacoplamento negativo fraco": 4,
+  "2010–12 → 2019–21|indústria|desacoplamento fraco": 3,
+  "2010–12 → 2019–21|indústria|desacoplamento negativo expansivo": 3,
+  "2010–12 → 2019–21|indústria|acoplamento recessivo": 2,
+  "2010–12 → 2019–21|indústria|desacoplamento forte": 1,
+  "2010–12 → 2019–21|indústria s/ termelétricas|desacoplamento negativo forte": 8,
+  "2010–12 → 2019–21|indústria s/ termelétricas|desacoplamento negativo fraco": 5,
+  "2010–12 → 2019–21|indústria s/ termelétricas|acoplamento recessivo": 4,
+  "2010–12 → 2019–21|indústria s/ termelétricas|desacoplamento negativo expansivo": 3,
+  "2010–12 → 2019–21|indústria s/ termelétricas|desacoplamento recessivo": 3,
+  "2010–12 → 2019–21|indústria s/ termelétricas|desacoplamento fraco": 2,
+  "2010–12 → 2019–21|indústria s/ termelétricas|desacoplamento forte": 1,
+  "2010–12 → 2019–21|indústria s/ termelétricas|acoplamento expansivo": 1,
+  "2010–12 → 2019–21|total|desacoplamento negativo expansivo": 10,
+  "2010–12 → 2019–21|total|desacoplamento fraco": 5,
+  "2010–12 → 2019–21|total|desacoplamento negativo forte": 5,
+  "2010–12 → 2019–21|total|desacoplamento forte": 4,
+  "2010–12 → 2019–21|total|desacoplamento negativo fraco": 1,
+  "2010–12 → 2019–21|total|desacoplamento recessivo": 1,
+  "2010–12 → 2019–21|total|acoplamento expansivo": 1,
+  "2014–16 → 2019–21|agropecuária|desacoplamento fraco": 9,
+  "2014–16 → 2019–21|agropecuária|desacoplamento negativo expansivo": 6,
+  "2014–16 → 2019–21|agropecuária|desacoplamento forte": 6,
+  "2014–16 → 2019–21|agropecuária|desacoplamento negativo forte": 3,
+  "2014–16 → 2019–21|agropecuária|desacoplamento recessivo": 2,
+  "2014–16 → 2019–21|agropecuária|desacoplamento negativo fraco": 1,
+  "2014–16 → 2019–21|indústria|desacoplamento negativo fraco": 9,
+  "2014–16 → 2019–21|indústria|desacoplamento negativo forte": 5,
+  "2014–16 → 2019–21|indústria|acoplamento recessivo": 4,
+  "2014–16 → 2019–21|indústria|desacoplamento fraco": 3,
+  "2014–16 → 2019–21|indústria|desacoplamento recessivo": 3,
+  "2014–16 → 2019–21|indústria|desacoplamento negativo expansivo": 1,
+  "2014–16 → 2019–21|indústria|desacoplamento forte": 1,
+  "2014–16 → 2019–21|indústria|acoplamento expansivo": 1,
+  "2014–16 → 2019–21|indústria s/ termelétricas|desacoplamento negativo fraco": 8,
+  "2014–16 → 2019–21|indústria s/ termelétricas|desacoplamento negativo forte": 7,
+  "2014–16 → 2019–21|indústria s/ termelétricas|desacoplamento fraco": 3,
+  "2014–16 → 2019–21|indústria s/ termelétricas|acoplamento recessivo": 3,
+  "2014–16 → 2019–21|indústria s/ termelétricas|desacoplamento recessivo": 3,
+  "2014–16 → 2019–21|indústria s/ termelétricas|desacoplamento forte": 2,
+  "2014–16 → 2019–21|indústria s/ termelétricas|acoplamento expansivo": 1,
+  "2014–16 → 2019–21|total|desacoplamento negativo forte": 8,
+  "2014–16 → 2019–21|total|desacoplamento negativo expansivo": 7,
+  "2014–16 → 2019–21|total|desacoplamento recessivo": 5,
+  "2014–16 → 2019–21|total|desacoplamento fraco": 3,
+  "2014–16 → 2019–21|total|desacoplamento forte": 2,
+  "2014–16 → 2019–21|total|acoplamento expansivo": 1,
+  "2014–16 → 2019–21|total|desacoplamento negativo fraco": 1
+ },
+ "tapio_BR": [
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "total",
+   "dg": 0.019,
+   "dw": 0.115,
+   "elasticidade": 6.099,
+   "classe": "desacoplamento negativo expansivo"
+  },
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "agropecuária",
+   "dg": 0.298,
+   "dw": 0.151,
+   "elasticidade": 0.507,
+   "classe": "desacoplamento fraco"
+  },
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "indústria",
+   "dg": -0.095,
+   "dw": -0.016,
+   "elasticidade": 0.165,
+   "classe": "desacoplamento negativo fraco"
+  },
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "indústria s/ termelétricas",
+   "dg": -0.095,
+   "dw": -0.058,
+   "elasticidade": 0.612,
+   "classe": "desacoplamento negativo fraco"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "total",
+   "dg": 0.026,
+   "dw": 0.053,
+   "elasticidade": 2.017,
+   "classe": "desacoplamento negativo expansivo"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "agropecuária",
+   "dg": 0.115,
+   "dw": 0.051,
+   "elasticidade": 0.441,
+   "classe": "desacoplamento fraco"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "indústria",
+   "dg": -0.039,
+   "dw": 0.041,
+   "elasticidade": -1.057,
+   "classe": "desacoplamento negativo forte"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "indústria s/ termelétricas",
+   "dg": -0.039,
+   "dw": -0.023,
+   "elasticidade": 0.583,
+   "classe": "desacoplamento negativo fraco"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "total",
+   "dg": -0.007,
+   "dw": 0.059,
+   "elasticidade": -8.36,
+   "classe": "desacoplamento negativo forte"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "agropecuária",
+   "dg": 0.164,
+   "dw": 0.095,
+   "elasticidade": 0.582,
+   "classe": "desacoplamento fraco"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "indústria",
+   "dg": -0.058,
+   "dw": -0.054,
+   "elasticidade": 0.933,
+   "classe": "acoplamento recessivo"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "indústria s/ termelétricas",
+   "dg": -0.058,
+   "dw": -0.036,
+   "elasticidade": 0.621,
+   "classe": "desacoplamento negativo fraco"
+  }
+ ],
+ "tapio_BR_consumo": [
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "total",
+   "dg": 0.019,
+   "dw": 0.134,
+   "elasticidade": 7.075,
+   "classe": "desacoplamento negativo expansivo"
+  },
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "agropecuária",
+   "dg": 0.298,
+   "dw": 0.175,
+   "elasticidade": 0.586,
+   "classe": "desacoplamento fraco"
+  },
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "indústria",
+   "dg": -0.095,
+   "dw": -0.111,
+   "elasticidade": 1.174,
+   "classe": "acoplamento recessivo"
+  },
+  {
+   "periodo": "2010–12 → 2019–21",
+   "setor": "indústria s/ termelétricas",
+   "dg": -0.095,
+   "dw": -0.124,
+   "elasticidade": 1.313,
+   "classe": "desacoplamento recessivo"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "total",
+   "dg": 0.026,
+   "dw": 0.07,
+   "elasticidade": 2.662,
+   "classe": "desacoplamento negativo expansivo"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "agropecuária",
+   "dg": 0.115,
+   "dw": 0.09,
+   "elasticidade": 0.777,
+   "classe": "desacoplamento fraco"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "indústria",
+   "dg": -0.039,
+   "dw": -0.055,
+   "elasticidade": 1.41,
+   "classe": "desacoplamento recessivo"
+  },
+  {
+   "periodo": "2010–12 → 2014–16",
+   "setor": "indústria s/ termelétricas",
+   "dg": -0.039,
+   "dw": -0.065,
+   "elasticidade": 1.672,
+   "classe": "desacoplamento recessivo"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "total",
+   "dg": -0.007,
+   "dw": 0.06,
+   "elasticidade": -8.434,
+   "classe": "desacoplamento negativo forte"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "agropecuária",
+   "dg": 0.164,
+   "dw": 0.078,
+   "elasticidade": 0.477,
+   "classe": "desacoplamento fraco"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "indústria",
+   "dg": -0.058,
+   "dw": -0.06,
+   "elasticidade": 1.028,
+   "classe": "acoplamento recessivo"
+  },
+  {
+   "periodo": "2014–16 → 2019–21",
+   "setor": "indústria s/ termelétricas",
+   "dg": -0.058,
+   "dw": -0.064,
+   "elasticidade": 1.094,
+   "classe": "acoplamento recessivo"
+  }
+ ],
+ "lmdi_base": {
+  "escala": 1192.0,
+  "mix_setorial": 8591.0,
+  "mix_regional": -26.0,
+  "intensidade": -2789.0,
+  "dW": 6968.0
+ },
+ "lmdi_deflator_unico": {
+  "escala": 1729.0,
+  "mix_setorial": 9005.0,
+  "mix_regional": 3.0,
+  "intensidade": -3768.0,
+  "dW": 6968.0
+ },
+ "lmdi_2010_2021": {
+  "escala": 4207.0,
+  "mix_setorial": 7983.0,
+  "mix_regional": -29.0,
+  "intensidade": -3022.0,
+  "dW": 9139.0
+ },
+ "lmdi_sem_termeletricas": {
+  "escala": 1145.0,
+  "mix_setorial": 8889.0,
+  "mix_regional": -93.0,
+  "intensidade": -3239.0,
+  "dW": 6702.0
+ },
+ "lmdi_consumo": {
+  "escala": 712.0,
+  "mix_setorial": 7047.0,
+  "mix_regional": -600.0,
+  "intensidade": -2367.0,
+  "dW": 4792.0
+ },
+ "lmdi_sem_NE": {
+  "escala": 714.0,
+  "mix_setorial": 6515.0,
+  "mix_regional": 404.0,
+  "intensidade": -1568.0,
+  "dW": 6065.0
+ },
+ "share_agro_real": [
+  0.04483883210080223,
+  0.057142363033034264
+ ],
+ "share_agro_nominal": [
+  0.04950538749581937,
+  0.06380208423549594
+ ],
+ "share_ind_real": [
+  0.24115351758038228,
+  0.21421880968753315
+ ],
+ "lmdi_uf_top_dW": {
+  "MG": {
+   "escala": 157.0,
+   "mix_setorial": 1238.0,
+   "mix_regional": -1512.0,
+   "intensidade": 2250.0,
+   "dW": 2132.0
+  },
+  "BA": {
+   "escala": 107.0,
+   "mix_setorial": 1099.0,
+   "mix_regional": -349.0,
+   "intensidade": 351.0,
+   "dW": 1208.0
+  },
+  "GO": {
+   "escala": 54.0,
+   "mix_setorial": 492.0,
+   "mix_regional": 127.0,
+   "intensidade": 98.0,
+   "dW": 772.0
+  },
+  "SP": {
+   "escala": 154.0,
+   "mix_setorial": 383.0,
+   "mix_regional": -945.0,
+   "intensidade": 1031.0,
+   "dW": 623.0
+  },
+  "MT": {
+   "escala": 33.0,
+   "mix_setorial": 325.0,
+   "mix_regional": 716.0,
+   "intensidade": -561.0,
+   "dW": 513.0
+  },
+  "ES": {
+   "escala": 43.0,
+   "mix_setorial": 413.0,
+   "mix_regional": -460.0,
+   "intensidade": 388.0,
+   "dW": 385.0
+  }
+ },
+ "lmdi_uf_bottom_dW": {
+  "RS": {
+   "escala": 225.0,
+   "mix_setorial": 2563.0,
+   "mix_regional": 1407.0,
+   "intensidade": -4644.0,
+   "dW": -448.0
+  },
+  "CE": {
+   "escala": 38.0,
+   "mix_setorial": 318.0,
+   "mix_regional": -68.0,
+   "intensidade": -547.0,
+   "dW": -258.0
+  },
+  "AL": {
+   "escala": 19.0,
+   "mix_setorial": 66.0,
+   "mix_regional": 193.0,
+   "intensidade": -480.0,
+   "dW": -201.0
+  },
+  "PB": {
+   "escala": 10.0,
+   "mix_setorial": 44.0,
+   "mix_regional": -60.0,
+   "intensidade": -117.0,
+   "dW": -123.0
+  },
+  "PE": {
+   "escala": 45.0,
+   "mix_setorial": 271.0,
+   "mix_regional": -103.0,
+   "intensidade": -329.0,
+   "dW": -116.0
+  }
+ },
+ "MT": {
+  "g_tot": [
+   81.2,
+   118.07
+  ],
+  "g_agro": [
+   15.89,
+   32.12
+  ],
+  "ret_tot": [
+   1526.45,
+   2039.75
+  ],
+  "ret_ir": [
+   584.05,
+   994.96
+  ],
+  "ret_an": [
+   565.65,
+   617.37
+  ],
+  "ret_agro": [
+   1149.7,
+   1612.33
+  ],
+  "con_tot": [
+   1047.0,
+   1436.25
+  ],
+  "wp_ret": [
+   53.25,
+   57.84
+  ],
+  "wue_agro": [
+   13.9,
+   19.84
+  ],
+  "wue_641": [
+   43.0,
+   42.43
+  ],
+  "share_agro_vab": [
+   0.19373731923491308,
+   0.2694955323415571
+  ],
+  "share_BR_agro_vab": [
+   0.0702730926993107,
+   0.10935183663891512
+  ],
+  "share_BR_irrig": [
+   0.018902318600270734,
+   0.027174626647774754
+  ]
+ },
+ "delta_irrig_top": {
+  "MG": 2024.0,
+  "BA": 1197.0,
+  "GO": 662.0,
+  "SP": 500.0,
+  "MT": 411.0,
+  "ES": 360.0
+ },
+ "delta_irrig_total": 5461.273079999996,
+ "indice_largura_media_IC90": 4.555555555555555
+}

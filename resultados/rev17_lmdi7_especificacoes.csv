@@ -1,0 +1,10 @@
+especificacao,escala,mix_setorial,mix_regional,intensidade,populacao,mix_regional_pop,per_capita,dW,residuo
+"Baseline (sectoral deflators, three-year ends, withdrawal)",905.2,8281.3,-102.5,-3753.8,1437.7,34.0,166.4,6968.3,-0.0
+Single aggregate deflator (nominal structure),1312.8,8560.0,-87.4,-4455.2,1437.7,34.0,166.4,6968.3,-0.0
+"Single-year ends, 2010 and 2021",3175.4,7652.5,-174.6,-3401.9,1616.2,47.5,224.1,9139.3,0.0
+"Five-year ends, 2010–2014 and 2017–2021",-201.7,7135.8,-121.3,-3063.9,1048.6,28.4,156.1,4982.1,0.0
+Thermoelectric withdrawal excluded,858.0,8579.4,-169.7,-4203.7,1437.7,34.0,166.4,6702.0,-0.0
+Consumption instead of withdrawal,642.6,6971.7,-633.1,-2472.8,349.0,3.9,-69.3,4792.1,0.0
+Northeast states excluded,542.4,6252.8,369.3,-2431.8,1222.4,5.3,104.6,6065.1,-0.0
+Subperiod 2010–2012 to 2014–2016,1211.4,2447.3,688.0,-2110.9,881.3,-5.6,78.2,3189.7,0.0
+Subperiod 2014–2016 to 2019–2021,-353.5,5820.6,-909.2,-1463.5,554.1,40.3,89.8,3778.6,-0.0

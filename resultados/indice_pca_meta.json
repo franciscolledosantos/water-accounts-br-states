@@ -1,0 +1,32 @@
+{
+ "autovalores": [
+  2.074,
+  1.583,
+  0.769,
+  0.374,
+  0.199
+ ],
+ "componentes_retidos": 2,
+ "pesos": {
+  "log_wp": 0.157,
+  "log_wue_agro": 0.168,
+  "fracao_consumo": 0.241,
+  "ret_pc": 0.21,
+  "ganho_wp": 0.224
+ },
+ "pesos_bootstrap_p05": {
+  "log_wp": 0.088,
+  "log_wue_agro": 0.113,
+  "fracao_consumo": 0.129,
+  "ret_pc": 0.12,
+  "ganho_wp": 0.115
+ },
+ "pesos_bootstrap_p95": {
+  "log_wp": 0.272,
+  "log_wue_agro": 0.253,
+  "fracao_consumo": 0.293,
+  "ret_pc": 0.325,
+  "ganho_wp": 0.285
+ },
+ "spearman_pca_vs_iguais": 0.9938949938949939
+}
